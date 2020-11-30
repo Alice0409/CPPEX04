@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 using namespace std;
-#include "getVolumeSurface.cpp"
+#include "getVolumeSurface.h"
 
 int main()
 {
